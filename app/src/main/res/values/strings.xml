@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HappyBirthdayApp</string>
+    <string name="advance">“ I am older today than yesterday but younger than tomorrow, happy birthday to me  ”</string>
+    <string name="happy_birthday_to_me">Happy Birthday to Me</string>
+    <string name="asia_sama">Asia sama</string>
+    <string name="birthday">2022 Nov 22</string>
+</resources>
